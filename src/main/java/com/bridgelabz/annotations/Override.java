@@ -8,7 +8,7 @@ public class Override {
 }
 class Animal{
     void makeSound(){
-        System.out.println("makes sound");
+        System.out.println("animal sound");
     }
 }
 
